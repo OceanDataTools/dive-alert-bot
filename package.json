@@ -4,9 +4,9 @@
   "description": "Discord Bot to post when new DiveStreams are activated",
   "author": "OceanDataTools.org",
   "license": "MIT",
-  "main": "bot.js",
+  "main": "bot.ts",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node bot.ts"
   },
   "type": "module",
   "keywords": [
