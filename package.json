@@ -1,0 +1,23 @@
+{
+  "name": "dive-alert",
+  "version": "1.0.0",
+  "description": "Discord Bot to post when new DiveStreams are activated",
+  "author": "OceanDataTools.org",
+  "license": "MIT",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "type": "module",
+  "keywords": [
+    "discord",
+    "bot",
+    "youtube"
+  ],
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "xml2js": "^0.6.2"
+  }
+}
